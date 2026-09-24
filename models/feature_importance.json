@@ -1,0 +1,102 @@
+[
+  {
+    "feature": "Inflight entertainment",
+    "importance": 0.24674
+  },
+  {
+    "feature": "Seat comfort",
+    "importance": 0.155
+  },
+  {
+    "feature": "Ease of Online booking",
+    "importance": 0.08255
+  },
+  {
+    "feature": "Online support",
+    "importance": 0.07283
+  },
+  {
+    "feature": "On-board service",
+    "importance": 0.04561
+  },
+  {
+    "feature": "Food and drink",
+    "importance": 0.04284
+  },
+  {
+    "feature": "Leg room service",
+    "importance": 0.03749
+  },
+  {
+    "feature": "Online boarding",
+    "importance": 0.03321
+  },
+  {
+    "feature": "Customer Type_disloyal Customer",
+    "importance": 0.02739
+  },
+  {
+    "feature": "Customer Type_Loyal Customer",
+    "importance": 0.02641
+  },
+  {
+    "feature": "Class_Business",
+    "importance": 0.02527
+  },
+  {
+    "feature": "Departure/Arrival time convenient",
+    "importance": 0.02208
+  },
+  {
+    "feature": "Flight Distance",
+    "importance": 0.02077
+  },
+  {
+    "feature": "Cleanliness",
+    "importance": 0.02017
+  },
+  {
+    "feature": "Checkin service",
+    "importance": 0.01977
+  },
+  {
+    "feature": "Baggage handling",
+    "importance": 0.0189
+  },
+  {
+    "feature": "Type of Travel_Personal Travel",
+    "importance": 0.01586
+  },
+  {
+    "feature": "Age",
+    "importance": 0.01558
+  },
+  {
+    "feature": "Inflight wifi service",
+    "importance": 0.01546
+  },
+  {
+    "feature": "Gate location",
+    "importance": 0.01369
+  },
+  {
+    "feature": "Type of Travel_Business travel",
+    "importance": 0.01313
+  },
+  {
+    "feature": "Class_Eco",
+    "importance": 0.01223
+  },
+  {
+    "feature": "Arrival Delay in Minutes",
+    "importance": 0.00873
+  },
+  {
+    "feature": "Departure Delay in Minutes",
+    "importance": 0.00728
+  },
+  {
+    "feature": "Class_Eco Plus",
+    "importance": 0.00102
+  }
+]
